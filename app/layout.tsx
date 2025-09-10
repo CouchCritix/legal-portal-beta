@@ -1,4 +1,4 @@
-import "@/styles/globals.css";
+import "../styles/globals.css";
 
 export const metadata = {
   title: process.env.PORTAL_NAME || "Employer Portal",
